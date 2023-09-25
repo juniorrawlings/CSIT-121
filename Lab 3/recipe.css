@@ -3,7 +3,7 @@ body { color: white; background-color: black;
 	margin-left: auto;
     margin-right: auto;
 	text-transform: auto; 
-	background-image: url(images/background.jgp); }
+	background-image: url(images/background.jgp)}
 
 p { color: blue;
 	font-family: Verdana, Arial, sans-serif; 
@@ -11,11 +11,11 @@ p { color: blue;
     margin-right: auto;
 	text-transform: lowercase; }
 
-h1 { color: red; background-color: black; }
+h1 { color: red; background-color: black; 
 	 font-family: Verdana, cursive, sans-serif;	
 	 margin-left: auto;
      margin-right: auto;
-	 text-transform: uppercase; }
+     text-transform: uppercase; }
 
 h2 { color: purple; background-color: black; 
 	 font-family: Verdana, fantasy, sans-serif; 
