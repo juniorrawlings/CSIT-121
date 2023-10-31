@@ -11,12 +11,12 @@ body { color: white;
 
 @media (max-width: 480px) {
 	body { background-color:purple;
-		flex-direction: column; }
+		flex-direction: Row; }
 }
 
 @media (max-width: 768px) {
 	body { background-color:purple; 
-	     	flex-direction: column; }
+	     	flex-direction: Row; }
 }
 
 @media (max-width: 1024px) {
