@@ -10,11 +10,8 @@ body { color: white;
 
 
 
-#wrapper { display: grid;
-           grid-template-columns: 150px 1fr;
-           grid-template-rows: 100px auto 50px;
-           grid-template-areas:
-                "ul    ol"; }
+ #wrapper { width:80%;
+ margin-left: auto; margin-right:auto; }
 
 p { color: blue;
 	font-family: Verdana, Arial, sans-serif; 
@@ -54,8 +51,7 @@ ol { color: gold;
 
 
 
-@media (max-width: 768px) {
-	body { background-color:purple; 
-		flex-direction: Row; }
+@media (min-width: 500px) {
+	ul{ clear: left;  }
 }
 
