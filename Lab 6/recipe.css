@@ -15,8 +15,6 @@ body { color: white;
 
 p { color: blue;
 	font-family: Verdana, Arial, sans-serif; 
-	margin-left: auto;
-    margin-right: auto;
 	text-transform: lowercase; 
 	text-align: center;
 	font-style: italic;
@@ -25,14 +23,10 @@ p { color: blue;
 
 h1 { color: red; background-color: black; 
 	 font-family: Verdana, cursive, sans-serif;	
-	 margin-left: auto;
-     margin-right: auto;
      text-transform: uppercase; }
 
 h2 { color: purple; background-color: black; 
 	 font-family: Verdana, fantasy, sans-serif; 
-	 margin-left: auto;
-     margin-right: auto;
 	 text-transform: uppercase; }
 
 ul{ color: gold;
