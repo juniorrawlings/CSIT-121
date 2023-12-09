@@ -1,0 +1,68 @@
+body { color: white; 
+	background-color: black;
+	font-family: Verdana, Arial, sans-serif; 
+	margin-left: auto;
+    margin-right: auto;
+	text-transform: lowercase; 
+	background-image: url(https://edumanias.com/wp-content/uploads/2021/07/game-development-and-game-design.jpg.webp);
+	height: 100vh;
+	background-position: center;
+	background-size: cover; }
+
+
+
+ #wrapper { width:80%;
+ margin-left: auto; margin-right:auto; }
+
+p { color: blue;
+	font-family: Verdana, Arial, sans-serif; 
+	text-transform: lowercase; 
+	text-align: center;
+	font-style: italic;
+	background-color: white;
+	clear: both;} 
+
+p2 { color: White;
+	font-family: Verdana, Arial, sans-serif; 
+	text-transform: uppercase; 
+	text-align: left;
+	font-style: italic;
+	background-color: red;}
+
+h1 { color: red; background-color: black; 
+	 font-family: Verdana, cursive, sans-serif;	
+     text-transform: uppercase; }
+
+h2 { color: purple; background-color: black; 
+	 font-family: Verdana, fantasy, sans-serif; 
+	 text-transform: uppercase; }
+
+ul{ color: gold;
+	 font-family: Verdana, Arial, sans-serif; 
+	 float: left;
+	 width: 0px;
+	 text-transform: lowercase; 
+	 background-color: black;}
+
+ol { color: gold;
+	 font-family: Verdana, Arial, sans-serif; 
+     margin-left: auto;
+	 text-transform: lowercase; 
+	 margin-left:100px;
+	 background-color: white;}
+
+
+
+@media (min-width: 500px) {
+	ul{ clear: left;  }
+}
+
+table, td, tr { border: 1px solid green; }
+tr:nth-of-type(even) { background-color: yellow; }
+
+form { background-color: purple;
+	font-family: Verdana, Arial, sans-serif; 
+	text-transform: uppercase; 
+	height: 100vh;
+	
+
